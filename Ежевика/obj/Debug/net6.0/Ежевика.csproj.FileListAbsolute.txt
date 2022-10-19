@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Ежевика\Ежевика\bin\Debug\net6.0\Ежевика.exe
+C:\Users\1\source\repos\Ежевика\Ежевика\bin\Debug\net6.0\Ежевика.deps.json
+C:\Users\1\source\repos\Ежевика\Ежевика\bin\Debug\net6.0\Ежевика.runtimeconfig.json
+C:\Users\1\source\repos\Ежевика\Ежевика\bin\Debug\net6.0\Ежевика.dll
+C:\Users\1\source\repos\Ежевика\Ежевика\bin\Debug\net6.0\Ежевика.pdb
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\Ежевика.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\Ежевика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\Ежевика.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\Ежевика.AssemblyInfo.cs
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\Ежевика.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\Ежевика.dll
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\refint\Ежевика.dll
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\Ежевика.pdb
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\Ежевика.genruntimeconfig.cache
+C:\Users\1\source\repos\Ежевика\Ежевика\obj\Debug\net6.0\ref\Ежевика.dll
